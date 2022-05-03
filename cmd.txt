@@ -1,0 +1,63 @@
+    1  su - root
+    2  apt update
+    3  sudo apt update
+    4  id
+    5  su - root
+    6  id
+    7  sudo apt update
+    8  man apt
+    9  id
+   10  nano/etc/nanorc
+   11  su - root
+   12  su - tech01
+   13  su - root
+   14  etc path wd
+   15  etc/passwd
+   16  /etc/passwd
+   17  su - root
+   18  cat etc/passwd
+   19  su - root
+   20  /etc/shadows
+   21  /etc/shadows/
+   22  /etc/shadow
+   23  su - root
+   24  pwd
+   25  mkdir paye
+   26  ls
+   27  ls - l
+   28  ls -l
+   29  mv paye Compta
+   30  ls -l
+   31  mkdir paye
+   32  ls
+   33  cd Compta/
+   34  LS
+   35  ls
+   36  cd ..
+   37  ls
+   38  chown -R paye:paye
+   39  chown -R paye:paye file_root
+   40  chown -R sarah: paye:paye
+   41  chown -R sarah paye:paye
+   42  chown -R sarah. paye:paye
+   43  chown -R sarah.paye
+   44  su - root
+   45  cat etc/passwd
+   46  cat /etc/group
+   47  visudo
+   48  su - root
+   49  fdisk -l
+   50  su -root
+   51  su - root
+   52  ls
+   53  cd TPdevops/
+   54  ls -a
+   55  git clone https://github.com/fpicot31/Jenkins-docker.git
+   56  ls
+   57  cp Jenkins-docker/
+   58  cp Jenkins-docker/* .
+   59  ls
+   60  rm -rf Jenkins-docker/
+   61  rm b*
+   62  ls
+   63  history > cmd.txt
